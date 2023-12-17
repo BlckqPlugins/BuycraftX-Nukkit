@@ -1,6 +1,6 @@
 # BuycraftX
 
-BuycraftX is the official plugin for the [Buycraft](https://www.buycraft.net) webstore solution for Minecraft servers.
+This is an unofficial BuycraftX plugin for the [Buycraft](https://www.buycraft.net) webstore solution for Minecraft servers.
 
 ## The major differences
 
